@@ -1,2 +1,2 @@
-04362478c8f52a5dee2d0980e37b30a4ef47e5372db79fe67e80884f4014d0e9  CVD_Risk_Calculator-Setup-1.0.1.exe
-201d7f07936afdf159a923dd5a4358c940018219d86fbab6aeb0d8d139a843e8  CVD_web_patch-1.0.1.zip
+dbd198adc5c6840e4225bd5157ec967299618a009a978e2aa6ca9dedecbd13c6  CVD_Risk_Calculator-Setup-1.0.1.exe
+d420bd85d7534db6e87d691f29d10096f06d0e34671d359f5a765be28c86820a  CVD_web_patch-1.0.1.zip

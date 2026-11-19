@@ -36,7 +36,7 @@ http://localhost:4009/?bms-session-id={session_id}
 
 ### อัปเดตเฉพาะหน้าเว็บ (ไม่ต้องติดตั้งใหม่)
 
-แตก [`dist/CVD_web_patch-1.0.1.zip`](dist/CVD_web_patch-1.0.1.zip) แล้วนำไฟล์ใน `web\assets\` ไปทับที่ `%LOCALAPPDATA%\Programs\CVD Risk Calculator\web\assets\` จากนั้นรีเฟรชหน้าแอป
+แตก [`dist/CVD_web_patch-1.0.1.zip`](dist/CVD_web_patch-1.0.1.zip) แล้วคัดลอกโฟลเดอร์ `web` ไปทับที่ `%LOCALAPPDATA%\Programs\CVD Risk Calculator\` (ทับ `index.html` และเพิ่มไฟล์ใน `assets`) จากนั้นรีเฟรชหน้าแอป
 
 ## โครงสร้าง repository
 
